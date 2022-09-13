@@ -1,4 +1,4 @@
-package printtillhundred;
+package executors.printtillhundred;
 
 public class NumberPrinter implements Runnable {
     private int numberToPrint;
